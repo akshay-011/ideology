@@ -1,0 +1,21 @@
+{
+    "short_name":"ideology",
+    "name":"Ideology",
+    "icons":[
+        {
+            "src":"favicon.png",
+            "size":"64x64 32x32 24x24 16x16",
+            "type":"image/xicon"
+        },
+        {
+            "src":"favicon.png",
+            "size":"192x192",
+            "type":"image/xicon"
+        },
+        {
+            "src":"favicon.png",
+            "size":"512x512",
+            "type":"image/xicon"
+        }
+    ]
+}

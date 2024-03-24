@@ -1,0 +1,35 @@
+.users-container{
+    color: black;
+    display: flex;
+    flex-direction: column;  
+    background-color: rgba(170, 169, 169, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    width: 80%;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.head{
+    gap: 0px;
+    margin: 0;
+    padding: 0;
+}
+.head p{
+    margin: 0;
+    font-size: 16spx;
+    font-weight: bolder;
+}
+
+.head span{
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+.main-body{
+    font-size: 18px;
+    font-weight: 600;
+}
+.main-body p{
+    width: 90%;
+}

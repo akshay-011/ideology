@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+    background-color: var(--primary-bg);
+    position: fixed;
+    z-index: 10;
+}
+
+.options button{
+    background-color: var(--primary-bg);
+    border: none;
+    padding-right: 25px;
+}

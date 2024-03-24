@@ -1,0 +1,22 @@
+.users-choose{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.round-user{
+    display: flex;
+    flex-direction: column;
+}
+
+.round-user input[type=radio]{
+    height: 75px;
+    width: 75px;
+    accent-color: var(--primary-bg);
+    appearance: none;
+    border-radius: 50%;
+}
+
+.round-user input[type=radio]:checked{
+    background-color: green;
+}

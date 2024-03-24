@@ -1,0 +1,9 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: white;
+}
+:root{
+  --primary-bg: rgb(124,221,145);
+}
